@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
 
-public class Nationality {
+public class  Nationality {
 
     private long count;
     private String name;
